@@ -1,2 +1,2 @@
 # sh-taskbar
-Stay Developments task bar.
+Task bark plugin for fork of GTA V modded cfx.re platform
